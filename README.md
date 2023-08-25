@@ -14,17 +14,17 @@ Spring Boot API for customer registration and lookup using an in-memory database
 
 ## Examples of Features/Operations
 ### Creating EndPoints
-![image](assets/clientapi=endpoint.png)
+![image](RegisCustomer-API/assets/clientapi=endpoint.png)
 
 ### Testing in Postman
 ```bash
 Adding customer
 ```
-![image](assets/clientapi=addclient-post.png)
+![image](RegisCustomer-API/assets/clientapi=addclient-post.png)
 ```bash
 Customer listing
 ```
-![image](assets/clientapi=findclient-get.png)
+![image](RegisCustomer-API/assets/clientapi=findclient-get.png)
 
 ### Viewing in h2 Database
-![image](assets/clientapi=h2database.png)
+![image](RegisCustomer-API/assets/clientapi=h2database.png)
