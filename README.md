@@ -1,7 +1,7 @@
-# client-api
+# RegisCustomer-API
 
 ## About the Project📜
-small REST API for adding and listing customers using an in-memory sql database for visualization.
+Spring Boot API for customer registration and lookup using an in-memory database (H2) to run functionalitys
 
 ## Technologies Used 💻⚙️
 - Spring Tool Suite 4
